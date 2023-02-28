@@ -1,6 +1,5 @@
 # cm2110-coursework-2021-22-bean-team
-cm2110-coursework-2021-22-bean-team created by GitHub Classroom
-# Bean Team - P.H.I.L
+P.H.I.L
 ###### By Adam Govier, Navya Shiju, Oliver Souter, Aida Ovalle
 
 ### What does P.H.I.L do - 
