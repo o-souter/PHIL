@@ -22,7 +22,7 @@ P.H.I.L
 	-Microphone
 	-Sense Hat
 	-Monitor
-	-Rasberry Pi 4  - encased in plastic when manufacture
+	-Rasberry Pi 4  - encased in plastic when manufactured
 
 ### P.H.I.L Setup for Users- 
 
