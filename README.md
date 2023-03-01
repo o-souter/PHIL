@@ -1,5 +1,5 @@
-# cm2110-coursework-2021-22-bean-team
-P.H.I.L
+# cm2110-coursework-2021-22-bean-team - P.H.I.L
+
 ###### By Adam Govier, Navya Shiju, Oliver Souter, Aida Ovalle
 
 ### What does P.H.I.L do - 
